@@ -1,0 +1,10 @@
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\bin\Debug\loopMath.exe.config
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\bin\Debug\loopMath.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\bin\Debug\loopMath.pdb
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\bin\Debug\loopMath.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\obj\Debug\loopMath.Form1.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\obj\Debug\loopMath.Resources.resources
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\obj\Debug\loopMath.vbproj.GenerateResource.Cache
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\obj\Debug\loopMath.exe
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\obj\Debug\loopMath.xml
+\\stg-highschool.sosd.7oaks.org\Users\AYDEN.HOLGATE\cs20sAydenHolgate\loopAyden\loopMath\loopMath\obj\Debug\loopMath.pdb
